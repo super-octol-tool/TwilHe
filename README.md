@@ -21,7 +21,7 @@
 <hr/>
 <main>
     <h1 align= "center"> brooding over <h1>
-    <img src="images/facebook.jpg" style="float:left" width="300px" height="300px" />
+    <img src="https://www.facebook.com/Image.jpg" style="float:left" width="300px" height="300px" />
     <p> The word of God was believed to have framed the world as we know it </p>
     <p> The will of God is Gods instructions to us men desiring our compliance for our own good </p>
     <p> With man's fall not all men know God's will and because man was made for God's purposes,the
