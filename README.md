@@ -7,6 +7,5 @@
 <!---
 TwilHe/TwilHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-a unit arrangement aaaaaaaaaaaaaaaaa.my unique mountain is faulty keyboard i can surmount because i hvaea the requisite skills
-i'm tech conscious and understands its BABEL nature as we are many and................................. 
---->
+a unit arrangement aaaaaaaaaaaaaaaaa.my unique mountain is faulty keyboard i can surmount because i haVe  the requisite skills
+i'm tech conscious and understands its BABEL nature as we are many and having diverse coding abilities.
